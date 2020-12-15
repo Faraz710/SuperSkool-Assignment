@@ -1,0 +1,6 @@
+.course {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    width: 25%;
+}

@@ -1,0 +1,6 @@
+.course {
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 21%;
+    margin: 2%;
+}
